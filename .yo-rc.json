@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.monoblog"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "monolith",
+    "baseName": "monoblog",
+    "packageName": "org.jhipster.monoblog",
+    "packageFolder": "org/jhipster/monoblog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2Y3NTgxMmRkY2FiMzM5NjI0NTlkYzllZGZhOTVkZDVlMmFhNzA5ZTY4YmIyMzc2YzM3YjRkYTJlZDE1ZGI2MTIwMjVhOGExNzg3NzhiYTRhNGQ2MmM4YzNkNGU3MWY5MmU1YTk2MzQzNDEzMDQxNzg4MjA5Yzk5MzZlNzU2MzY=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
